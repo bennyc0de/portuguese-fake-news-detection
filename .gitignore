@@ -3,3 +3,6 @@ benny.py
 benny2.py
 tfidf_vectorizer.joblib
 tfidf_term_summary.csv
+test.csv
+train.csv
+val.csv
