@@ -1,0 +1,60 @@
+Cluster 0:
+ euros
+ milhões
+ milhões euros
+ mil
+ mil milhões
+ mil euros
+ ano
+ banco
+ valor
+ mil milhões euros
+
+Cluster 1:
+ ministro
+ costa
+ governo
+ ps
+ antónio
+ antónio costa
+ psd
+ primeiro ministro
+ primeiro
+ partido
+
+Cluster 2:
+ ucrânia
+ rússia
+ russo
+ guerra
+ putin
+ wagner
+ moscovo
+ russa
+ kiev
+ zelensky
+
+Cluster 3:
+ anos
+ mãe
+ vida
+ mulher
+ jovem
+ homem
+ crianças
+ pessoas
+ ter
+ casa
+
+Cluster 4:
+ portugal
+ pessoas
+ saúde
+ anos
+ feira
+ ainda
+ dia
+ lisboa
+ pode
+ ano
+
