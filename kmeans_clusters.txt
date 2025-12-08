@@ -1,28 +1,4 @@
 Cluster 0:
- euros
- milhões
- milhões euros
- mil
- mil milhões
- mil euros
- ano
- banco
- valor
- mil milhões euros
-
-Cluster 1:
- ministro
- costa
- governo
- ps
- antónio
- antónio costa
- psd
- primeiro ministro
- primeiro
- partido
-
-Cluster 2:
  ucrânia
  rússia
  russo
@@ -34,27 +10,51 @@ Cluster 2:
  kiev
  zelensky
 
-Cluster 3:
+Cluster 1:
  anos
- mãe
  vida
- mulher
+ mãe
+ pessoas
  jovem
  homem
- crianças
- pessoas
+ mulher
  ter
  casa
+ família
+
+Cluster 2:
+ euros
+ milhões
+ milhões euros
+ mil
+ mil milhões
+ ano
+ mil euros
+ valor
+ banco
+ mil milhões euros
+
+Cluster 3:
+ portugal
+ saúde
+ pessoas
+ feira
+ anos
+ ainda
+ lisboa
+ ano
+ sobre
+ dia
 
 Cluster 4:
- portugal
- pessoas
- saúde
- anos
- feira
- ainda
- dia
- lisboa
- pode
- ano
+ ministro
+ costa
+ governo
+ antónio
+ ps
+ antónio costa
+ primeiro ministro
+ primeiro
+ psd
+ presidente
 
