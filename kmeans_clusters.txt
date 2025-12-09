@@ -1,16 +1,28 @@
 Cluster 0:
- portugal
- pessoas
  saúde
- anos
- feira
- ainda
- lisboa
- dia
- sobre
- pode
+ covid
+ doença
+ vacina
+ médicos
+ cancro
+ pessoas
+ doentes
+ hospital
+ estudo
 
 Cluster 1:
+ anos
+ pessoas
+ portugal
+ ter
+ ainda
+ dia
+ feira
+ sobre
+ vida
+ vai
+
+Cluster 2:
  euros
  milhões
  milhões euros
@@ -18,23 +30,23 @@ Cluster 1:
  mil milhões
  mil euros
  ano
- valor
  banco
+ valor
  mil milhões euros
 
-Cluster 2:
- anos
- mãe
- vida
- jovem
- mulher
- homem
- crianças
- ter
- filho
- criança
-
 Cluster 3:
+ ministro
+ governo
+ costa
+ ps
+ antónio
+ antónio costa
+ psd
+ primeiro ministro
+ presidente
+ primeiro
+
+Cluster 4:
  ucrânia
  rússia
  russo
@@ -44,17 +56,5 @@ Cluster 3:
  moscovo
  russa
  kiev
- zelensky
-
-Cluster 4:
- ministro
- costa
- governo
- ps
- antónio
- antónio costa
- psd
- primeiro ministro
- primeiro
- partido
+ nato
 
