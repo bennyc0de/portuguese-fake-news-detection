@@ -1,8 +1,8 @@
 CLUSTER SEMANTIC LABELS (Zero-Shot Classification)
 ================================================================================
 
-Cluster 0: economic news (real) (5184 documents)
-Cluster 1: political news (fake) (30523 documents)
-Cluster 2: economic news (real) (4020 documents)
-Cluster 3: political news (real) (8427 documents)
-Cluster 4: entertainment news (real) (2395 documents)
+Cluster 0: political news (real) (7804 documents)
+Cluster 1: entertainment news (real) (2187 documents)
+Cluster 2: economic news (real) (29135 documents)
+Cluster 3: entertainment news (fake) (6995 documents)
+Cluster 4: economic news (fake) (4428 documents)

@@ -1,42 +1,6 @@
 Cluster 0:
- saúde
- covid
- doença
- vacina
- médicos
- cancro
- pessoas
- doentes
- hospital
- estudo
-
-Cluster 1:
- anos
- pessoas
- portugal
- ter
- ainda
- dia
- feira
- sobre
- vida
- vai
-
-Cluster 2:
- euros
- milhões
- milhões euros
- mil
- mil milhões
- mil euros
- ano
- banco
- valor
- mil milhões euros
-
-Cluster 3:
- ministro
  governo
+ ministro
  costa
  ps
  antónio
@@ -46,7 +10,31 @@ Cluster 3:
  presidente
  primeiro
 
-Cluster 4:
+Cluster 1:
+ anos
+ pessoas
+ ter
+ portugal
+ ainda
+ dia
+ feira
+ vida
+ vai
+ sobre
+
+Cluster 2:
+ saúde
+ covid
+ vacina
+ médicos
+ doença
+ cancro
+ doentes
+ estudo
+ hospital
+ vírus
+
+Cluster 3:
  ucrânia
  rússia
  russo
@@ -57,4 +45,16 @@ Cluster 4:
  russa
  kiev
  nato
+
+Cluster 4:
+ euros
+ milhões
+ milhões euros
+ mil
+ mil euros
+ mil milhões
+ ano
+ valor
+ banco
+ portugal
 
