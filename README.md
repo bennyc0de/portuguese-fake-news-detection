@@ -5,9 +5,20 @@
 -   Rodrigo Zink ist1109356 (rodrigo.zink@tecnico.ulisboa.pt)
 
 ## Installation
-1. Extract all the contents from the .zip;
-2. Install Python dependencies (run 'pip install -r requirements.txt' , already in the notebook)
-3. Download NLTK stopwords (required for data cleaning, also in the notebook):
+1. Ensure you have **Python 3.12+** installed.
+2. (Recommended) Create and activate a virtual environment:
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+3. Make sure you have **Jupyter Notebook** installed:
+   ```
+   pip install notebook
+   ```
+4. Extract all the contents from the .zip;
+5. Use Jupyter
+6. Install Python dependencies (run 'pip install -r requirements.txt' , already in the notebook)
+7. Download NLTK stopwords (required for data cleaning, also in the notebook):
 
 ## Usage
 
