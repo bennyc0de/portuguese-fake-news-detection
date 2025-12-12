@@ -1,0 +1,60 @@
+Cluster 0:
+ governo
+ ministro
+ costa
+ ps
+ antónio
+ antónio costa
+ psd
+ primeiro ministro
+ presidente
+ primeiro
+
+Cluster 1:
+ anos
+ pessoas
+ ter
+ portugal
+ ainda
+ dia
+ feira
+ vida
+ vai
+ sobre
+
+Cluster 2:
+ saúde
+ covid
+ vacina
+ médicos
+ doença
+ cancro
+ doentes
+ estudo
+ hospital
+ vírus
+
+Cluster 3:
+ ucrânia
+ rússia
+ russo
+ guerra
+ putin
+ wagner
+ moscovo
+ russa
+ kiev
+ nato
+
+Cluster 4:
+ euros
+ milhões
+ milhões euros
+ mil
+ mil euros
+ mil milhões
+ ano
+ valor
+ banco
+ portugal
+

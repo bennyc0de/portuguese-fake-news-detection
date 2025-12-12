@@ -11,14 +11,10 @@
 
 ## Usage
 
-- Open `NN.ipynb` in Jupyter Notebook and run each cell sequentially from top to bottom.
-- Data is in `Data_Set/`. Results are saved in `cv_results/`.
-- We already loaded and cleaned all the data sets, and already trained the models. 
-- If you want to run and make the cleaning and training by yourself, please runs all the cells sequentially.
-- The cells with "Optional" will write the information to the `Data_Set/` and `cv_results/` folder.
-- If you want to run the "Optional" cells, please run them all of the sequentially until you reach a "Mandatory" cell.
-- The cells with "Mandatory" will get the information that is saved in the `Data_Set/` and `cv_results/` folder and show the results for the exercises.
-- We made "Optional" and "Mandatory" cells in case the user doesn't have much time and just want to compute the results for the exercises(since running all the cells can take up to 1 hour).
+- Open `NN.ipynb` in Jupyter Notebook and run each cell sequentially from top to bottom, so all the functions and variables are correctly initiated.
+- Data is in `Data_Set/`. Results are saved in `cv_results/`, so please don't change the dirs path or name.
+- Since the Data Sets are to big, you need to parse and clean the data by yourself.
+- The models and the tf-idf vectorizer are already saved (But you can allways compute them yourself :D ).
 
 
 ## References
